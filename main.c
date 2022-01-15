@@ -1,4 +1,3 @@
-/*** ===> Copyright © 2021/2022 M.Ilyes Guer, All Rights Reserved. <=== ***/
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -53,4 +52,3 @@ int main()
     }
     return 0;
 }
-/*** ===> Copyright © 2021/2022 M.Ilyes Guer, All Rights Reserved. <=== ***/
